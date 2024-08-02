@@ -12,4 +12,4 @@ Configurar rotas aninhadas para criar uma estrutura de navegação hierárquica.
 - Crie componentes Overview.jsx, Settings.jsx e Reports.jsx para as diferentes seções do painel.
 - No Dashboard.jsx, defina rotas aninhadas para os componentes Overview.jsx, Settings.jsx e Reports.jsx.
 
-### Você pode acessar através do link: 
+### Você pode acessar através do link: https://alessandra1999.github.io/nest-routes-reactjs/reports
